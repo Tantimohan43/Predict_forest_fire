@@ -69,3 +69,4 @@ python app.py
 Visit the app in your browser at:
 http://127.0.0.1:5000
 
+look at the screenshot of predict_page.jpg and data_based_on_lat&long.jpg
